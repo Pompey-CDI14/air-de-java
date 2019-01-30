@@ -1,4 +1,4 @@
-IDTITRE;IDTYPEPROD;TITRE;EPOQUE;DUREE
+idTitre;idType;titre;epoque;duree
 ;4;À la claire fontaine;Du temps jadis;00:03:35
 ;1;A la pêche aux moules;Air de ménestrel;00:04:25
 ;4;À la volette (Mon petit oiseau);Air de ménestrel;00:04:45
@@ -83,5 +83,3 @@ IDTITRE;IDTYPEPROD;TITRE;EPOQUE;DUREE
 ;4;V'là l'bon vent;Du temps jadis;00:05:08
 ;4;Vive le vent;Air de ménestrel;00:02:42
 ;8;Youkaïdi;Air d'autrefois;00:04:15
-;;;;
-;;;;
