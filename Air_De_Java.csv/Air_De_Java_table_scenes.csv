@@ -1,50 +1,50 @@
-idScene;nomScene;adresseScene;villeScene
-; Les ArËnes;" Rue Michel Chasles; 59494";Valenciennes
-; L'AÈronef;" 168 Avenue Willy Brandt; 59777 Euralille";Lille
-; Le Splendid;" Boulevard LÈon Blum; 02100 Saint-Quentin"; Saint-Quentin
-; AccorHotels ArÈna;" 8 Boulevard de Bercy; 75012 Paris"; Paris
-; Le Grand Rex;" 1 Boulevard PoissonniËre; 75002 Paris"; Paris
+ÔªøidScene;nomScene;adresseScene;villeScene
+; Les Ar√®nes;" Rue Michel Chasles; 59494";Valenciennes
+; L'A√©ronef;" 168 Avenue Willy Brandt; 59777 Euralille";Lille
+; Le Splendid;" Boulevard L√©on Blum; 02100 Saint-Quentin"; Saint-Quentin
+; AccorHotels Ar√©na;" 8 Boulevard de Bercy; 75012 Paris"; Paris
+; Le Grand Rex;" 1 Boulevard Poissonni√®re; 75002 Paris"; Paris
 ; La Cigale;"120 Boulevard de Rochechouart; 75018 Paris"; Paris
 ; La Merise;" Place des Merisiers; 78190 Trappes"; Trappes
 ; La Batterie;" 1 Rue de la Redoute; 78280 Guyancourt"; Guyancourt
-; ZÈnith de Caen;" 6 Rue Joseph Philippon; 14000 Caen"; Caen
-; Parc Anova;" 171 Rue de Bretagne; 61000"; AlenÁon
+; Z√©nith de Caen;" 6 Rue Joseph Philippon; 14000 Caen"; Caen
+; Parc Anova;" 171 Rue de Bretagne; 61000"; Alen√ßon
 ;" L'Espace Les Vikings	";" 2 Chemin des Marronniers; 38100"; Yvetot
-; Le 106;" Quai Jean de BÈthencourt; 76000"; Caen
-; ArkÈa Arena;" 48-50 Avenue Jean AlfonsÈa; 33270 Floirac ";Floirac
-; Centre de congrËs;" 1 Avenue du Midi; 47000 Agen"; Agen
-; Le Pin Galant;" 34 Avenue du MarÈchal de Lattre de Tassigny; 33700 MÈrignac"; MÈrignac
+; Le 106;" Quai Jean de B√©thencourt; 76000"; Caen
+; Ark√©a Arena;" 48-50 Avenue Jean Alfons√©a; 33270 Floirac ";Floirac
+; Centre de congr√®s;" 1 Avenue du Midi; 47000 Agen"; Agen
+; Le Pin Galant;" 34 Avenue du Mar√©chal de Lattre de Tassigny; 33700 M√©rignac"; M√©rignac
 ; Auditorium;" 8 cours Georges Clemenceau; 33000 Bordeaux"; Bordeaux
-; Gare du Midi;" 23 Avenue du MarÈchal Foch; 64200 Biarritz"; Biarritz
-; ThÈ‚tre de l'Archipel;" Avenue du GÈnÈral Leclerc; 66000 Perpignan"; Perpignan
-; ZÈnith Sud;" 2733 Avenue Albert Einstein; 34000 Montpellier"; Montpellier
-; Le CarrÈ magique;" Parvis des Droits de l'Homme; 22300 Lannion"; Lannion
+; Gare du Midi;" 23 Avenue du Mar√©chal Foch; 64200 Biarritz"; Biarritz
+; Th√©√¢tre de l'Archipel;" Avenue du G√©n√©ral Leclerc; 66000 Perpignan"; Perpignan
+; Z√©nith Sud;" 2733 Avenue Albert Einstein; 34000 Montpellier"; Montpellier
+; Le Carr√© magique;" Parvis des Droits de l'Homme; 22300 Lannion"; Lannion
 ; Le Bacardi;" ZA de Kerguiniou - BP11; 22160 Callac"; Callac
-;" ZÈnith d'OrlÈans	";" 1 Rue du PrÈsident Robert Schuman; 45100 OrlÈans"; OrlÈans
-; Hall de Belle-Isle;" 1 Avenue Daniel Bernardet; 36000 Ch‚teauroux"; Chateauroux
-;" Le Grand ThÈ‚tre	";" 34 Rue de la Scellerie; 37000 Tours"; Tours
-; L'Atelier ‡ Spectacles;" 51A Rue de TorÁay; 28500 Vernouillet"; Vernouillet
-; Espace AndrÈ Malraux;" 79 Rue de Varize; 28200 Ch‚teaudun";" Ch‚teaudun	"
-; Espace LigÈria;" 9 Rue de la Croix Blanche; 37270";" Montlouis-sur-Loire	"
-; Salle ThÈlËme;" 3 Rue des Tanneurs; 37000 Tours "; Tours
+;" Z√©nith d'Orl√©ans	";" 1 Rue du Pr√©sident Robert Schuman; 45100 Orl√©ans"; Orl√©ans
+; Hall de Belle-Isle;" 1 Avenue Daniel Bernardet; 36000 Ch√¢teauroux"; Chateauroux
+;" Le Grand Th√©√¢tre	";" 34 Rue de la Scellerie; 37000 Tours"; Tours
+; L'Atelier √† Spectacles;" 51A Rue de Tor√ßay; 28500 Vernouillet"; Vernouillet
+; Espace Andr√© Malraux;" 79 Rue de Varize; 28200 Ch√¢teaudun";" Ch√¢teaudun	"
+; Espace Lig√©ria;" 9 Rue de la Croix Blanche; 37270";" Montlouis-sur-Loire	"
+; Salle Th√©l√®me;" 3 Rue des Tanneurs; 37000 Tours "; Tours
 ; U Palatinu; 20090 Ajaccio; Ajaccio
-; Galaxie;" Rue des Artistes; 57360 AmnÈville"; AmnÈville
-; Hall RhÈnus;" 17 Boulevard de Dresde; 67000 Strasbourg";" Strasbourg	"
+; Galaxie;" Rue des Artistes; 57360 Amn√©ville"; Amn√©ville
+; Hall Rh√©nus;" 17 Boulevard de Dresde; 67000 Strasbourg";" Strasbourg	"
 ; Les Fuseaux;" 11 Avenue Raoul Laurent; 52100 Saint-Dizier";" Saint-Dizier	"
 ; AirStrip; D104 F Rue de Saint Jean 57370; Waltembourg
-; Parc des expositions;" Route de La Vieille meuse; 08000"; Charleville MÈziËres
-; Tanzmatten;" Quai de Ill; 67600 SÈlestat"; SÈlestat
+; Parc des expositions;" Route de La Vieille meuse; 08000"; Charleville M√©zi√®res
+; Tanzmatten;" Quai de Ill; 67600 S√©lestat"; S√©lestat
 ; La Passerelle;" 50 Avenue de Lorraine; 57190 Florange"; Florange
 ; Palais des sports;" La Cocoteraie 97190; Le Gosier; Guadeloupe"; Le Gosier
-; Le ZÈphir;" Route de Montabo; Cayenne"; Cayenne
+; Le Z√©phir;" Route de Montabo; Cayenne"; Cayenne
 ; Gayant Expo;" Route de Tournai; 59502 Douai"; Douai
-; ZÈnith de Lille;" 1 Boulevard des CitÈs Unies; 59777"; Lille
+; Z√©nith de Lille;" 1 Boulevard des Cit√©s Unies; 59777"; Lille
 ; Salle Calypso;" 730 Rue Roger Martin du Gard; 62100"; Calais
 ; Le Kursaal;" Place du Casino; 59240";Dunkerque
 ; Le Chaudron;" Rue Charles Lamarre; 62480"; Portel
 ; Elispace;" 3 Avenue Paul Henri Spaak; 60000"; Beauvais
-; Arena Loire;" 131 Rue Ferdinand Vest; 49800 "; TrÈlazÈ
+; Arena Loire;" 131 Rue Ferdinand Vest; 49800 "; Tr√©laz√©
 ; Le Rex Cabaret;" 4 Rue de Marclan; 31600";Muret
-; AntarËs;" 2 Avenue AntarËs; 72100"; Le Mans
+; Antar√®s;" 2 Avenue Antar√®s; 72100"; Le Mans
 ; Le Lieu Unique;" 2 Rue de la Biscuiterie; 44000"; Nantes
-; Le Life;" Boulevard de la LÈgion d'Honneur; 44600 ";Saint-Nazaire
+; Le Life;" Boulevard de la L√©gion d'Honneur; 44600 ";Saint-Nazaire
