@@ -1,1 +1,17 @@
-"idRencontre";"idPerso";"nomRencontre";"villeRencontre";"dateDebut";"dateFin";"nbPersonnesAttendues";"periodicite";"annulRencontre"
+idRencontre;idPerso;nomRencontre;villeRencontre;dateDebut;dateFin;nbPersonnesAttendues;periodicite;annulRencontre
+1;177;nancy folklo pulsations;Nancy;20/01/2017;22/01/2017;7000;365;0
+2;177;nancy folklo pulsations;Nancy;19/01/2018;20/01/2018;7500;365;0
+3;177;nancy folklo pulsations;Nancy;18/01/2019;20/01/2019;8000;365;0
+4;177;nancy folklo pulsations;Nancy;17/01/2020;19/01/2020;8500;365;0
+8;103;la madine;Caen;05/07/2017;09/07/2017;300;183;0
+9;103;la madine;Caen;08/07/2018;12/07/2018;315;183;1
+10;103;la madine;Caen;07/07/2019;11/07/2019;900;183;0
+5;35;les jasmins;Lyon;01/04/2018;05/04/2018;4000;730;0
+6;35;les jasmins;Lyon;07/04/2019;11/04/2019;5000;730;0
+7;35;les jasmins;Lyon;05/04/2020;09/04/2020;5500;730;0
+11;165;venicia;Nice;02/11/2018;08/11/2018;8000;365;0
+12;165;venicia;Nice;01/11/2019;07/11/2019;7000;365;0
+13;165;venicia;Nice;30/10/2020;05/11/2020;9000;365;0
+14;182;peupliers;Paris;05/08/2019;07/08/2019;13000;365;0
+15;182;peupliers;Paris;05/08/2020;07/08/2020;14100;365;0
+16;182;peupliers;Paris;05/08/2021;07/08/2021;15000;365;0
